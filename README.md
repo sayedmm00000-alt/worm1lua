@@ -1,2 +1,0 @@
-# worm1lua
-admin
